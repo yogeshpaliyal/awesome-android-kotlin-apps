@@ -548,7 +548,7 @@
       },
       {
         "github_url": "https://github.com/yogeshpaliyal/KeyPass",
-        "stack": "Hilt, Coroutines, Room, LiveData, ViewModel, Kotlin-Redux"
+        "stack": "Hilt, Coroutines, Jetpack Compose, Room, LiveData, ViewModel, Kotlin-Redux"
       }
     ]
   },
